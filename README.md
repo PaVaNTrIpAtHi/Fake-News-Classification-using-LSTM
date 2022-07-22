@@ -1,0 +1,2 @@
+# Fake-News-Classification-using-LSTM
+In the new age of technology, we go through every lot of news and in there is a possibility that the news could be fake. We trained a model which will help us to classify whether the news is genuine or fake. We trained the model using dataset available from Kaggle. This is a binary classification problem and we used LSTM to train the model. The model achieved good accuracy and can be worked upon to even improve it and use it in real-time.
